@@ -1,0 +1,32 @@
+Allora SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Amiens SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Applethorpe SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Ballandean SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Broadwater SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Dalveen SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Freestone SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Glen Aplin SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Glennie Heights SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Greenlands SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Inglewood SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Karara SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Killarney SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Leyburn SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Maryvale SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Pozieres SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Severnlea SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Stanthorpe SHS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Stanthorpe SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Tannymorel SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Texas SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+The Summit SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Thulimbah SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Wallangarra SS 	 Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+Warwick Central SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Warwick East SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Warwick SHS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Warwick West SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Wheatvale SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Yangan SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Yelarbon SS 	 Microsoft Windows Server 2008 R2 Enterprise 
+Murrays Bridge SS 	 Microsoft Windows Server 2008 R2 Enterprise 

@@ -1,0 +1,33 @@
+School	Code	IP
+Allora SS	0003	10.152.12.1
+Amiens SS	1629	10.152.20.1
+Applethorpe SS	1294	10.152.28.1
+Ballandean SS	1164	10.152.36.1
+Broadwater SS	1071	10.152.44.1
+Dalveen SS	0318	10.152.76.1
+Freestone SS	0040	10.152.92.1
+Glen Aplin SS	0544	10.152.100.1
+Glennie Heights SS	0770	10.152.108.1
+Greenlands SS	0925	10.152.132.1
+Inglewood SS	0055	10.152.140.1
+Karara SS	1145	10.152.148.1
+Killarney SS	0163	10.152.156.1
+Leyburn SS	0068	10.152.180.1
+Maryvale SS	1389	10.152.196.1
+Pozieres SS	1704	10.152.212.1
+Severnlea SS	1007	10.152.220.1
+Stanthorpe SHS	2064	10.152.228.1
+Stanthorpe SS	0132	10.152.236.1
+Tannymorel SS	0295	10.153.4.1
+Texas SS	0437	10.153.12.1
+The Summit SS	1714	10.153.20.1
+Thulimbah SS	0803	10.153.28.1
+Wallangarra SS	0458	10.153.36.1
+Warwick Central SS	0116	10.153.44.1
+Warwick East SS	0225	10.153.52.1
+Warwick SHS	2015	10.153.60.1
+Warwick West SS	1152	10.153.68.1
+Wheatvale SS	1147	10.153.76.1
+Yangan SS	0151	10.153.84.1
+Yelarbon SS	1346	10.153.92.1
+Murrays Bridge SS	1177	10.152.204.1
